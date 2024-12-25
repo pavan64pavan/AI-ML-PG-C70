@@ -1,2 +1,2 @@
-Detailed Analysis on identifying Most Likely defaulters for Loans.
-The Case Study is submitted by Pavan Kumar BN and SathyaMurthy - Batch C70.
+- Detailed Analysis on identifying Most Likely defaulters for Loans.
+- The Case Study is submitted by Pavan Kumar BN and SathyaMurthy - Batch C70.
