@@ -1,1 +1,1 @@
-This folder comprises of all the files related to the Casestudy.
+Detailed Analysis on identifying Most Likely defaulters before handing out loans.
